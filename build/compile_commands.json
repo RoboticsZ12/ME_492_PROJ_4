@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zechariah/ME_492_PROJ_4/build/src",
+  "command": "/usr/bin/g++  -I/home/zechariah/ME_492_PROJ_4/include -g -o CMakeFiles/Proj4.dir/main.cpp.o -c /home/zechariah/ME_492_PROJ_4/src/main.cpp",
+  "file": "/home/zechariah/ME_492_PROJ_4/src/main.cpp"
+},
+{
+  "directory": "/home/zechariah/ME_492_PROJ_4/build/include",
+  "command": "/usr/bin/g++  -I/home/zechariah/ME_492_PROJ_4/include -g -o CMakeFiles/include.dir/matrix_operations.cpp.o -c /home/zechariah/ME_492_PROJ_4/include/matrix_operations.cpp",
+  "file": "/home/zechariah/ME_492_PROJ_4/include/matrix_operations.cpp"
+}
+]
